@@ -1,0 +1,2 @@
+openid.mode=associate
+openid.assoc_type=HMAC-SHA1

@@ -1,0 +1,4 @@
+openid.mode=associate
+openid.assoc_type=HMAC-SHA1
+openid.session_type=DH-SHA1
+openid.dh_consumer_public=CTntCklgsHBaqQ/ShoSh0w2whYztwSS04qKenOmDl9uBTa8NV9WMRkEcZlcBU4uULS9HYru/qe0slHmnapy/HrsYmL6VxFaNap1EPm9IizFUbbt5scmoFdtl8eZ1UCexOWn12+Q7pWPaaHEKB7VvivoE9IkUVjSNmTgQTVVvZTo=

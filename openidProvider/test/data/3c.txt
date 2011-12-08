@@ -1,0 +1,6 @@
+openid.ns=http://specs.openid.net/auth/2.0
+openid.mode=checkid_setup
+openid.identity=http://hans.pip.verisignlabs.com
+openid.claimed_id=http://commented.org
+openid.return_to=http://granqvist.com
+openid.trust_root=http://granqvist.com

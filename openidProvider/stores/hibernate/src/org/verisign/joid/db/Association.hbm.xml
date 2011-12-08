@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+  "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+  "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+  <class name="org.verisign.joid.db.Association" table="Association">
+    <id name="id">
+      <generator class="native"/>
+    </id>
+    <property name="mode" type="string"/>
+    <property name="handle" type="string"/>
+    <property name="secret" type="string"/>
+    <property name="issuedDate" type="timestamp"/>
+    <property name="lifetime" type="long"/>
+    <property name="associationType" type="string"/>
+  </class>
+</hibernate-mapping>

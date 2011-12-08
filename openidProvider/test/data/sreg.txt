@@ -1,0 +1,7 @@
+openid.ns=http://specs.openid.net/auth/2.0
+openid.mode=checkid_setup
+openid.identity=http://hans.pip.verisignlabs.com
+openid.return_to=http://granqvist.com
+openid.sreg.required=nickname, gender
+openid.sreg.optional=dob
+openid.trust_root=http://granqvist.com
